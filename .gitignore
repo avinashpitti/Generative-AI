@@ -1,0 +1,12 @@
+# Ignore all virtual environments in any subfolder
+**/env/
+**/venv/
+
+# Ignore all secret environment files in any subfolder
+**/.env
+*.env
+
+# Ignore Python cache & temporary build files
+**/__pycache__/
+*.pyc
+.vscode/

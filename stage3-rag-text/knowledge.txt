@@ -1,0 +1,5 @@
+Project Nebula is an internal initiative at Apex Dynamics launched in June 2025.
+The project lead for Nebula is Dr. Sarah Lin, and the chief systems architect is Marcus Vance.
+The primary goal of Project Nebula is to reduce latency in microservice meshes by 42% using eBPF probes.
+Nebula operates on a quarterly budget of $350,000 and is slated for general production rollout in October 2026.
+If an outage occurs within Nebula, emergency tickets must be assigned the tag #NEBULA-RED and escalated directly to Marcus Vance within 15 minutes.
